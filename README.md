@@ -5,13 +5,16 @@ Custom URL Breadcrumb is a Contentstack UI Extension that provides customizable 
 ## Installation
 
 1. Clone the repository:
-   
-   https://github.com/Contentstack-Solutions/custom-url-breadcrumb
+
+```
+https://github.com/Contentstack-Solutions/custom-url-breadcrumb
+```
 
 2. Navigate to the project directory:
 
-   cd custom-url-breadcrumb
-
+```
+cd custom-url-breadcrumb
+```
 
 3. Install the dependencies:
 
